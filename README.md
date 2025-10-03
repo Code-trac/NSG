@@ -1,4 +1,4 @@
-# NSG Video Analysis System - Complete Setup Guide
+# NSG Video Analysis System 
 
 ## 🚀 Quick Start
 
