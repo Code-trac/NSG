@@ -1,0 +1,62 @@
+[
+  {
+    "zone_id": "Z1",
+    "name": "Top-Left",
+    "x1": 0,
+    "y1": 0,
+    "x2": 426,
+    "y2": 240,
+    "crowd_threshold": 4,
+    "loiter_seconds": 12
+  },
+  {
+    "zone_id": "Z2",
+    "name": "Top-Middle",
+    "x1": 427,
+    "y1": 0,
+    "x2": 853,
+    "y2": 240,
+    "crowd_threshold": 5,
+    "loiter_seconds": 15
+  },
+  {
+    "zone_id": "Z3",
+    "name": "Top-Right",
+    "x1": 854,
+    "y1": 0,
+    "x2": 1280,
+    "y2": 240,
+    "crowd_threshold": 5,
+    "loiter_seconds": 15
+  },
+  {
+    "zone_id": "Z4",
+    "name": "Bottom-Left",
+    "x1": 0,
+    "y1": 241,
+    "x2": 426,
+    "y2": 720,
+    "crowd_threshold": 6,
+    "loiter_seconds": 18
+  },
+  {
+    "zone_id": "Z5",
+    "name": "Bottom-Middle",
+    "x1": 427,
+    "y1": 241,
+    "x2": 853,
+    "y2": 720,
+    "crowd_threshold": 8,
+    "loiter_seconds": 20
+  },
+  {
+    "zone_id": "Z6",
+    "name": "Bottom-Right",
+    "x1": 854,
+    "y1": 241,
+    "x2": 1280,
+    "y2": 720,
+    "crowd_threshold": 8,
+    "loiter_seconds": 20
+  }
+]

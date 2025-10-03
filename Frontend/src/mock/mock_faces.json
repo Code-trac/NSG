@@ -1,0 +1,8 @@
+{
+  "items": [
+    { "id": "F1", "name": "Alice W.", "match": 0.91, "image": "/placeholder.svg?height=240&width=240" },
+    { "id": "F2", "name": "Bob K.", "match": 0.84, "image": "/placeholder.svg?height=240&width=240" },
+    { "id": "F3", "name": "Unknown", "match": 0.72, "image": "/placeholder.svg?height=240&width=240" },
+    { "id": "F4", "name": "Eve M.", "match": 0.66, "image": "/placeholder.svg?height=240&width=240" }
+  ]
+}

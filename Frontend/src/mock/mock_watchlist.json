@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "id": "W1",
+      "title": "Person of Interest Detected",
+      "confidence": 0.88,
+      "image": "/placeholder.svg?height=360&width=640"
+    },
+    {
+      "id": "W2",
+      "title": "Person of Interest Detected",
+      "confidence": 0.76,
+      "image": "/placeholder.svg?height=360&width=640"
+    }
+  ]
+}

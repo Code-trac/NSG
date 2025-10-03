@@ -1,0 +1,1 @@
+alert_id,camera_id,timestamp,event_type,severity,confidence,track_id,area_id,zone_id,snapshot_path,clip_path,meta,escalation_required,recommended_action

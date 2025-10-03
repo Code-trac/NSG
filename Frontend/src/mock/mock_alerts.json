@@ -1,0 +1,49 @@
+{
+  "alerts": [
+    {
+      "alert_id": "ALERT-202509300001",
+      "camera_id": "CAM-SAMPLE1",
+      "timestamp": "2025-09-30T07:05:12+05:30",
+      "event_type": "loitering",
+      "severity": "medium",
+      "confidence": 0.82,
+      "track_id": "T12",
+      "area_id": "Entrance",
+      "zone_id": "Z1",
+      "bounding_boxes": [[10, 10, 120, 120]],
+      "snapshot_path": "snapshots/ALERT-202509300001.jpg",
+      "clip_path": "clips/ALERT-202509300001.mp4",
+      "meta": { "frame_idx": 1234, "fallback": false }
+    },
+    {
+      "alert_id": "ALERT-202509300002",
+      "camera_id": "CAM-DOCK2",
+      "timestamp": "2025-09-30T08:15:42+05:30",
+      "event_type": "intrusion",
+      "severity": "high",
+      "confidence": 0.93,
+      "track_id": "T34",
+      "area_id": "Loading Dock",
+      "zone_id": "Z3",
+      "bounding_boxes": [[20, 18, 150, 180]],
+      "snapshot_path": "snapshots/ALERT-202509300002.jpg",
+      "clip_path": "clips/ALERT-202509300002.mp4",
+      "meta": { "frame_idx": 2290, "fallback": true }
+    },
+    {
+      "alert_id": "ALERT-202509300003",
+      "camera_id": "CAM-LOBBY1",
+      "timestamp": "2025-09-30T09:55:01+05:30",
+      "event_type": "object-left",
+      "severity": "low",
+      "confidence": 0.64,
+      "track_id": "T56",
+      "area_id": "Lobby",
+      "zone_id": "Z2",
+      "bounding_boxes": [[50, 60, 200, 210]],
+      "snapshot_path": "snapshots/ALERT-202509300003.jpg",
+      "clip_path": "clips/ALERT-202509300003.mp4",
+      "meta": { "frame_idx": 4312, "fallback": false }
+    }
+  ]
+}

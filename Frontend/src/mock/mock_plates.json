@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": "P1",
+      "plate": "8DZK512",
+      "vehicle": "Sedan",
+      "color": "Blue",
+      "timestamp": "2025-09-30T08:10:00Z",
+      "image": "/placeholder.svg?height=360&width=640"
+    },
+    {
+      "id": "P2",
+      "plate": "4ABC999",
+      "vehicle": "Truck",
+      "color": "White",
+      "timestamp": "2025-09-30T08:20:00Z",
+      "image": "/placeholder.svg?height=360&width=640"
+    },
+    {
+      "id": "P3",
+      "plate": "7JHX321",
+      "vehicle": "SUV",
+      "color": "Red",
+      "timestamp": "2025-09-30T08:40:00Z",
+      "image": "/placeholder.svg?height=360&width=640"
+    }
+  ]
+}
